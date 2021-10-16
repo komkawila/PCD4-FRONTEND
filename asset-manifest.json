@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0c8f1d7.chunk.css",
+    "main.js": "/static/js/main.2c7d5b1f.chunk.js",
+    "main.js.map": "/static/js/main.2c7d5b1f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1028745.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1028745.js.map",
+    "static/js/2.0d9b7938.chunk.js": "/static/js/2.0d9b7938.chunk.js",
+    "static/js/2.0d9b7938.chunk.js.map": "/static/js/2.0d9b7938.chunk.js.map",
+    "static/js/3.45770a6c.chunk.js": "/static/js/3.45770a6c.chunk.js",
+    "static/js/3.45770a6c.chunk.js.map": "/static/js/3.45770a6c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f0c8f1d7.chunk.css.map": "/static/css/main.f0c8f1d7.chunk.css.map",
+    "static/js/2.0d9b7938.chunk.js.LICENSE.txt": "/static/js/2.0d9b7938.chunk.js.LICENSE.txt",
+    "static/media/19154.b3976db4.jpg": "/static/media/19154.b3976db4.jpg",
+    "static/media/index.css": "/static/media/Kanit Light.0ad315b7.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1028745.js",
+    "static/js/2.0d9b7938.chunk.js",
+    "static/css/main.f0c8f1d7.chunk.css",
+    "static/js/main.2c7d5b1f.chunk.js"
+  ]
+}
